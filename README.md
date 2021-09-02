@@ -6,6 +6,7 @@
 - 📫 Shoot me a mail at raihan.srizon@gmail.com
 - 😄 Pronouns: RayHaan
 - ⚡ Fun fact: I'm always doing something.
+- 💸 Paypal me @raihanrms
 
 <!--
 **raihanrms/raihanrms** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
