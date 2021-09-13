@@ -18,13 +18,11 @@
   </a>
 </p>
 
-
-[![Raihan's github stats](https://github-readme-stats.vercel.app/api/top-langs/?username=raihanrms&show_icons=true&theme=tokyonight&hide_border=true)](https://github.com/samerzmd/github-readme-stats)
-
 ![visitors](https://visitor-badge.glitch.me/badge?page_id=raihanrms)
 <p>
   <img alt="Github Follow" src="https://img.shields.io/github/followers/raihanrms?style=social">
 </p>
 
+[![Raihan's github stats](https://github-readme-stats.vercel.app/api/top-langs/?username=raihanrms&show_icons=true&theme=tokyonight&hide_border=true)](https://github.com/samerzmd/github-readme-stats)
 
 <!--[![Raihan's github stats](https://github-readme-stats.vercel.app/api?username=raihanrms&show_icons=true&theme=tokyonight&hide_border=true&hide=contribs,prs)](https://github.com/raihanrms/github-readme-stats)--!>
