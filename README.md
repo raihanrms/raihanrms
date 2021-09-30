@@ -1,4 +1,4 @@
-### Hey there 👋
+### 👋
 - 🔭 I’m currently working on building my career.
 - 📫 Shoot me a mail @ raihan.srizon@gmail.com
 - 💸 Paypal me @raihanrms
@@ -27,4 +27,4 @@
 
 <a href="https://samy.pl"><img src="https://raw.githubusercontent.com/samyk/samyk/main/.../c.svg" width="25%" height="25%"></a>
 
-<!--[![Raihan's github stats](https://github-readme-stats.vercel.app/api?username=raihanrms&show_icons=true&theme=tokyonight&hide_border=true&hide=contribs,prs)](https://github.com/raihanrms/github-readme-stats)--!>
+[![Raihan's github stats](https://github-readme-stats.vercel.app/api?username=raihanrms&show_icons=true&theme=tokyonight&hide_border=true&hide=contribs,prs)](https://github.com/raihanrms/github-readme-stats)
