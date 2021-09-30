@@ -1,3 +1,5 @@
+[![Raihan's github stats](https://github-readme-stats.vercel.app/api?username=raihanrms&show_icons=true&theme=tokyonight&hide_border=true&hide=contribs,prs)](https://github.com/raihanrms/github-readme-stats)
+
 ### Hellow
 - 🔭 I’m currently working on building my career.
 - 📫 Shoot me a mail @ raihan.srizon@gmail.com
@@ -22,8 +24,6 @@
 <p>
   <img alt="Github Follow" src="https://img.shields.io/github/followers/raihanrms?style=social">
 </p>
-
-[![Raihan's github stats](https://github-readme-stats.vercel.app/api?username=raihanrms&show_icons=true&theme=tokyonight&hide_border=true&hide=contribs,prs)](https://github.com/raihanrms/github-readme-stats)
 
 [![Raihan's github stats](https://github-readme-stats.vercel.app/api/top-langs/?username=raihanrms&show_icons=true&theme=tokyonight&hide_border=true)](https://github.com/samerzmd/github-readme-stats)
 
