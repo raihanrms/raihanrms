@@ -18,8 +18,6 @@
     </div>
   </a>
 </p>
-
-![visitors](https://visitor-badge.glitch.me/badge?page_id=raihanrms)
 <p>
   <img alt="Github Follow" src="https://img.shields.io/github/followers/raihanrms?style=social">
 </p>
