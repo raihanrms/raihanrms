@@ -12,7 +12,7 @@
 <p>
   <a href="https://asciinema.org/~raihanrms">
     <div style="float:left;">
-   😄 asciinema
+   Terminal recordings @asciinema
       <div style="float:left;">
       </div>
     </div>
