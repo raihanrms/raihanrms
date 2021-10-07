@@ -4,6 +4,8 @@
 - 📫 Shoot me a mail @ raihan.srizon@gmail.com
 - 💸 Paypal me @raihanrms
 
+[![Twitter](PNG/Twitter_Social_Icon_Rounded_Square_Color.png)](https://twitter.com/raihan_rms) Twitter)]
+
 <p>
   <a href="https://twitter.com/raihan_rms">
     <img alt="Twitter Follow" src="https://img.shields.io/twitter/follow/raihan_rms?style=for-the-badge">
