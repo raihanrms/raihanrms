@@ -12,7 +12,7 @@
 <p>
   <a href="https://asciinema.org/~raihanrms">
     <div style="float:left;">
-   Recorded Terminals
+   Recorded Terminals...
       <div style="float:left;">
       </div>
     </div>
