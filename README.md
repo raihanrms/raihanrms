@@ -24,6 +24,9 @@
   <img alt="Github Follow" src="https://img.shields.io/github/followers/raihanrms?style=social">
 </p>
 
+<!--<a href="https://samy.pl"><img src="https://raw.githubusercontent.com/samyk/samyk/main/.../c.svg" width="25%" height="25%"></a>
+-->
+
 [![Raihan's github stats](https://github-readme-stats.vercel.app/api/top-langs/?username=raihanrms&show_icons=true&theme=tokyonight&hide_border=true)](https://github.com/samerzmd/github-readme-stats)
 
-<a href="https://samy.pl"><img src="https://raw.githubusercontent.com/samyk/samyk/main/.../c.svg" width="25%" height="25%"></a>
+
