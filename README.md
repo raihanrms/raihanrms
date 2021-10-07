@@ -4,8 +4,13 @@
 - 📫 Shoot me a mail @ raihan.srizon@gmail.com
 - 💸 Paypal me @raihanrms
 
-[![Twitter](PNG/Twitter_Social_Icon_Rounded_Square_Color.png)](https://twitter.com/raihan_rms) Twitter
-
+<p>
+  <a href="https://twitter.com/raihan_rms">
+    <div style="float:left;">
+    Twitter
+    <div style="float:left;">
+  </a>
+</p>
 <p>
   <a href="https://asciinema.org/~raihanrms">
     <div style="float:left;">
@@ -21,4 +26,4 @@
 
 [![Raihan's github stats](https://github-readme-stats.vercel.app/api/top-langs/?username=raihanrms&show_icons=true&theme=tokyonight&hide_border=true)](https://github.com/samerzmd/github-readme-stats)
 
-<a href="https://samy.pl"><img src="https://raw.githubusercontent.com/samyk/samyk/main/.../c.svg" width="30%" height="30%"></a>
+<a href="https://samy.pl"><img src="https://raw.githubusercontent.com/samyk/samyk/main/.../c.svg" width="25%" height="25%"></a>
