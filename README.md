@@ -1,4 +1,4 @@
-[![Raihan's github stats](https://github-readme-stats.vercel.app/api?username=raihanrms&show_icons=true&theme=tokyonight&hide_border=true&hide=contribs,prs)](https://github.com/raihanrms/github-readme-stats)
+[![Raihan's github stats](https://github-readme-stats.vercel.app/api?username=raihanrms&show_icons=true&theme=tokyonight&hide_border=true&hide=contribs)](https://github.com/raihanrms/github-readme-stats)
 
 - 🔭 I’m currently working on building my career.
 - 📫 Shoot me a mail @ raihan.srizon@gmail.com
