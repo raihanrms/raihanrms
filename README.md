@@ -1,4 +1,6 @@
-<p> <a> <div style="text-align: center;"> _FED UP!_ </div></a></p>
+_FED UP!_
+
+<h1 align="center"> Title </h1>
 
 [<img src="https://img.youtube.com/vi/P4vhvRocJQY/maxresdefault.jpg" width="100%">](https://youtu.be/P4vhvRocJQY)
 
