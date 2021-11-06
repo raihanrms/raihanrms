@@ -1,5 +1,3 @@
-<h2 align="center"> FED UP! </h2>
-
 [<img src="https://img.youtube.com/vi/P4vhvRocJQY/maxresdefault.jpg" width="100%">](https://youtu.be/P4vhvRocJQY)
 
 [![Raihan's github stats](https://github-readme-stats.vercel.app/api?username=raihanrms&show_icons=true&theme=tokyonight&hide_border=true&hide=contribs)](https://github.com/raihanrms/github-readme-stats)
