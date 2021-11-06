@@ -1,8 +1,8 @@
-[![Raihan's github stats](https://github-readme-stats.vercel.app/api?username=raihanrms&show_icons=true&theme=tokyonight&hide_border=true&hide=contribs)](https://github.com/raihanrms/github-readme-stats)
-
-<h1 align="center">_FED UP!_</h1>
+<h1 align="center">FED UP!</h1>
 
 [<img src="https://img.youtube.com/vi/P4vhvRocJQY/maxresdefault.jpg" width="100%">](https://youtu.be/P4vhvRocJQY)
+
+[![Raihan's github stats](https://github-readme-stats.vercel.app/api?username=raihanrms&show_icons=true&theme=tokyonight&hide_border=true&hide=contribs)](https://github.com/raihanrms/github-readme-stats)
 
 <!-- - 🔭 I’m currently working on building my career. 
  - 📫 Shoot me a mail @ raihan.srizon@gmail.com 
