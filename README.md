@@ -1,4 +1,4 @@
-<h1 align="center"> FED UP! </h1>
+<h2 align="center"> FED UP! </h2>
 
 [<img src="https://img.youtube.com/vi/P4vhvRocJQY/maxresdefault.jpg" width="100%">](https://youtu.be/P4vhvRocJQY)
 
