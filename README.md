@@ -2,9 +2,10 @@
 
 [![Raihan's github stats](https://github-readme-stats.vercel.app/api?username=raihanrms&show_icons=true&theme=tokyonight&hide_border=true&hide=contribs)](https://github.com/raihanrms/github-readme-stats)
 
-<!-- - 🔭 I’m currently working on building my career. 
- - 📫 Shoot me a mail @ raihan.srizon@gmail.com 
- - 💸 Paypal me @raihanrms -->
+[![Raihan's github stats](https://github-readme-stats.vercel.app/api/top-langs/?username=raihanrms&show_icons=true&theme=tokyonight&hide_border=true&layout=compact)](https://github.com/samerzmd/github-readme-stats)
+
+[![Raihan's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=raihanrms&layout=compact&theme=tokyonight)](https://github.com/raihanrms/github-readme-stats)
+
 
 <p>
   <a href="https://twitter.com/raihan_rms">
@@ -22,8 +23,3 @@
     </div>
   </a>
 </p>
-
-
-[![Raihan's github stats](https://github-readme-stats.vercel.app/api/top-langs/?username=raihanrms&show_icons=true&theme=tokyonight&hide_border=true&layout=compact)](https://github.com/samerzmd/github-readme-stats)
-
-
