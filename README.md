@@ -6,7 +6,6 @@
 
 [![Raihan's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=raihanrms&layout=compact&theme=tokyonight)](https://github.com/raihanrms/github-readme-stats)
 
-
 <p>
   <a href="https://twitter.com/raihan_rms">
     <div style="float:left;">
