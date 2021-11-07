@@ -24,6 +24,6 @@
 </p>
 
 
-[![Raihan's github stats](https://github-readme-stats.vercel.app/api/top-langs/?username=raihanrms&show_icons=true&theme=tokyonight&hide_border=true)](https://github.com/samerzmd/github-readme-stats)
+[![Raihan's github stats](https://github-readme-stats.vercel.app/api/top-langs/?username=raihanrms&show_icons=true&theme=tokyonight&hide_border=true&layout=compact)](https://github.com/samerzmd/github-readme-stats)
 
 
