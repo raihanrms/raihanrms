@@ -18,5 +18,7 @@
   <img align="center" alt="Recorded Terminals" width="50px" src="https://asciinema.org/images/logo-red-949d10005bb389d1ae900a13b5ac53d7.svg?vsn=d" />
 </a>
 
+---
+
 [![trophy](https://github-profile-trophy.vercel.app/?username=raihanrms&theme=onedark&hide_border=true&column=4&no-frame=true&no-bg=true)](https://github.com/ryo-ma/github-profile-trophy)
 
