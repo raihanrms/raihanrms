@@ -6,13 +6,11 @@
 
 [![Raihan's github stats](https://github-readme-stats.vercel.app/api/top-langs/?username=raihanrms&show_icons=true&theme=github_dark&hide_border=true&layout=compact)](https://github.com/samerzmd/github-readme-stats)
 
- 
-[![Raihan's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=raihanrms)](https://github.com/raihanrms/github-readme-stats)
-
-
 <div <a href="https://www.twitter.com/raihan_rms">
   <img align="center" alt="Twitter" width="50px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
 </a>
+
+\n
 
 <a href="https://asciinema.org/~raihanrms">
   <img align="center" alt="Recorded Terminals" width="50px" src="https://asciinema.org/images/logo-red-949d10005bb389d1ae900a13b5ac53d7.svg?vsn=d" />
