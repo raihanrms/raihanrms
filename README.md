@@ -8,7 +8,7 @@
 
 [![Raihan's github stats](https://github-readme-stats.vercel.app/api/top-langs/?username=raihanrms&show_icons=true&theme=github_dark&hide_border=true&layout=compact)](https://github.com/samerzmd/github-readme-stats)
 ---
-### Spotify Playing 🎵
+### Spotify I listen to while I code 🎵
 
 [![Spotify](https://spotify-github-profile.vercel.app/api/view.svg?uid=2167llhdodsba3t4gdmdk4c4i&cover_image=true&theme=natemoo-re&bar_color=53b14f&bar_color_cover=false)](https://open.spotify.com/user/2167llhdodsba3t4gdmdk4c4i)
 ---
