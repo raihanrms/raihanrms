@@ -20,8 +20,3 @@
 <a href="https://asciinema.org/~raihanrms">
   <img align="top" alt="Recorded Terminals" width="25px" src="https://asciinema.org/images/logo-red-949d10005bb389d1ae900a13b5ac53d7.svg?vsn=d" />
 </a>
----
-
-### WakaTime Stats 🔥
-<!-- Wakatime dashboard -->
-<figure><embed src="https://wakatime.com/share/@raihanrms/"></embed></figure>
