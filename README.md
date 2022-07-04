@@ -8,6 +8,11 @@
 
 [![Raihan's github stats](https://github-readme-stats.vercel.app/api/top-langs/?username=raihanrms&show_icons=true&theme=github_dark&hide_border=true&layout=compact)](https://github.com/samerzmd/github-readme-stats)
 ---
+
+### WakaTime Stats 🔥
+<!-- Wakatime dashboard -->
+[![Wakatime](https://wakatime.com/api/badge-svg?user=raihanrms&color=DD272700&bg=DD272700&border=DD272700)](https://wakatime.com/@raihanrms)
+---
 ### Spotify I listen to while I code 🎵
 
 [![Spotify](https://spotify-github-profile.vercel.app/api/view.svg?uid=2167llhdodsba3t4gdmdk4c4i&cover_image=true&theme=natemoo-re&bar_color=53b14f&bar_color_cover=false)](https://open.spotify.com/user/2167llhdodsba3t4gdmdk4c4i)
@@ -20,7 +25,3 @@
 <a href="https://asciinema.org/~raihanrms">
   <img align="top" alt="Recorded Terminals" width="25px" src="https://asciinema.org/images/logo-red-949d10005bb389d1ae900a13b5ac53d7.svg?vsn=d" />
 </a>
-
-### WakaTime Stats 🔥
-
-[![WakaTime](https://wakatime.com/api/badge-svg?user=raihanrms&color=green)](https://wakatime.com/raihanrms)
