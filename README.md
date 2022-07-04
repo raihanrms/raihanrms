@@ -11,7 +11,7 @@
 
 ### WakaTime Stats 🔥
 <!-- Wakatime dashboard -->
-[![Wakatime]https://wakatime.com/share/@raihanrms/78d7f83d-a0fa-4852-8ebd-d248a6889b23.svg](https://wakatime.com/@raihanrms)
+<figure><embed src="https://wakatime.com/share/@raihanrms/78d7f83d-a0fa-4852-8ebd-d248a6889b23.svg"></embed></figure>
 ---
 ### Spotify I listen to while I code 🎵
 
