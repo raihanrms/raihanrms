@@ -14,7 +14,7 @@
 ---
 ### Waka Time weekly stats 🔥
 
-[![raihanrms's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=raihanrms)](https://github.com/anuraghazra/github-readme-stats)
+[![raihanrms's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=raihanrms&theme=github_dark&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)
 
 ### Find me @
 
