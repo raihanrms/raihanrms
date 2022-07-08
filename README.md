@@ -6,7 +6,7 @@
 
 [![Raihan's github stats](https://github-readme-stats.vercel.app/api?username=raihanrms&show_icons=true&theme=github_dark&hide_border=true&hide=contribs)](https://github.com/raihanrms/github-readme-stats)
 
-[![Raihan's Top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=raihanrms&show_icons=true&theme=github_dark&hide_border=true&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+<!-- [![Raihan's Top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=raihanrms&show_icons=true&theme=github_dark&hide_border=true&layout=compact)](https://github.com/anuraghazra/github-readme-stats) -->
 
 [![raihanrms's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=raihanrms&theme=github_dark&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)
 ---
