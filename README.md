@@ -1,8 +1,8 @@
-### Streaks 🔥
+### Github Streaks 🔥
 
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=raihanrms&theme=neon-dark&background=DD272700&border=DD272700)](https://git.io/streak-stats)
 ---
-### Github Stats 🔥
+### Keeping an eye on the time 🔥
 
 <!-- [![Raihan's github stats](https://github-readme-stats.vercel.app/api?username=raihanrms&show_icons=true&theme=github_dark&hide_border=true&hide=contribs)](https://github.com/raihanrms/github-readme-stats) -->
 
