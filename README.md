@@ -6,7 +6,7 @@
 
 [![raihanrms's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=raihanrms&theme=github_dark&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)
 ---
-### Spotify I listen to while I code 🎵
+### Songs I listen to while I code 🎵
 
 [![Spotify](https://spotify-github-profile.vercel.app/api/view.svg?uid=2167llhdodsba3t4gdmdk4c4i&cover_image=true&theme=natemoo-re&bar_color=53b14f&bar_color_cover=false)](https://open.spotify.com/user/2167llhdodsba3t4gdmdk4c4i)
 ---
