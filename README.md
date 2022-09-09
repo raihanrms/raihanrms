@@ -2,7 +2,7 @@
 
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=raihanrms&theme=neon-dark&background=DD272700&border=DD272700)](https://git.io/streak-stats)
 ---
-### Keeping an eye on the time 🔥
+### Keeping an eye on time 🔥
 
 [![raihanrms's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=raihanrms&theme=github_dark&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)
 ---
